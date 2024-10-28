@@ -1,0 +1,47 @@
+.sectionM{
+ background-image: url("https://images.unsplash.com/photo-1517196084897-498e0abd7c2d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+
+.menuC{
+    display: flex !important;
+    justify-content: space-between !important;
+    justify-items: center !important;
+    margin: 3%;
+}
+.h1{
+    text-align: center !important;
+    margin: 3%
+}
+nav{
+    background-color: #d99436 !important;
+}
+.cl{
+    margin-left: 70%;
+    /* display: flex; */
+    /* justify-content: between; */
+}
+/* .nav{
+    border-left: 60%;
+} */
+ .aboutus{
+    margin: 5%;
+    background-color: rgb(223, 220, 231);
+    padding: 2%;
+ }
+.aboutus p{
+    font-size: 1.5rem;
+}
+.aboutus img{
+    width: 80%;
+    height: 80%;
+
+}
+.formulaire{
+    width: 70%;    
+    margin: auto;
+    margin-bottom: 5%;
+}
+.tContact{
+    color:red;
+}
+
